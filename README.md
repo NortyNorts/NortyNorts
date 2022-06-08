@@ -7,7 +7,7 @@
 
 - I am hoping to work for a company that can help me learn and grow as a developer.
 
-### Some of the Languages and Tools I have been learning:
+### Some of the Languages and Tools I have been working with:
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
