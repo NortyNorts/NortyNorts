@@ -38,7 +38,37 @@
 <a href="#">
   <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
 </a>
- 
+<a href="#">
+  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
+ <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
+  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+</a> 
+
 <br />
 <br />
 
