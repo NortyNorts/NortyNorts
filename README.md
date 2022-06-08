@@ -1,7 +1,7 @@
 # Hey, I'm Adam 👋 
 
 
-## I'm a Junior Software Developer with a background in nuclear propulsion engineering, hospitality and custoer service.
+## I'm a Junior Software Developer with a background in marine engineering, hospitality and custoer service.
 
 - 
 
