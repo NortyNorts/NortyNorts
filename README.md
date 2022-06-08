@@ -35,5 +35,11 @@
 <br />
 <br />
 
+<a href="#">
+  <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+</a>
+ 
+<br />
+<br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nortynorts&theme=radical)
