@@ -33,6 +33,7 @@
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nortynorts&theme=radical)
