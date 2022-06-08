@@ -3,6 +3,8 @@
 
 ## I'm a Junior Software Developer with a background in marine engineering, hospitality and customer service.
 
+- I decided to get back into computing by taking a Professional Software developemnt course at CodeClan.
+
 - 
 
 ### Some of the Languages and Tools I have been learning:
