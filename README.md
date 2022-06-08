@@ -5,6 +5,8 @@
 
 - I am curently taking a Professional Software developemnt course at CodeClan Edinburgh.
 
+- I am a big believer in personal growth and development, I truly believe anyone can do anything if they apply themselves.
+
 - I am hoping to work for a company that can help me learn and grow as a developer.
 
 ### Some of the Languages and Tools I have been working with:
