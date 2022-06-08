@@ -3,9 +3,9 @@
 
 ## I'm a Junior Software Developer with a background in marine engineering, hospitality and customer service.
 
-- I decided to get back into computing by taking a Professional Software developemnt course at CodeClan.
+- I am curently taking a Professional Software developemnt course at CodeClan Edinburgh.
 
-- 
+- I am hoping to work for a company that can help me learn and grow as a developer.
 
 ### Some of the Languages and Tools I have been learning:
 
