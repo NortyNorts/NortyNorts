@@ -3,7 +3,7 @@
 
 ## I'm a Junior Software Developer with a background in marine engineering, hospitality and customer service.
 
-- I am curently taking a Professional Software developemnt course at CodeClan Edinburgh.
+- I have recently graduated from a Professional Software Developemnt course at CodeClan Edinburgh.
 
 - I am a big believer in personal growth and development, I truly believe anyone can do anything if they apply themselves.
 
